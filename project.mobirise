@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "EC200a",
+    "currentPage": "Setup",
     "name": "EC200a Installation",
     "theme": {
       "name": "mobirise3",
@@ -35,7 +35,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -158,14 +159,15 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Setup\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         }
       ]
     },
     "Setup": {
       "settings": {
         "title": "Easy Setup",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 4
       },
       "components": [
         {
@@ -285,7 +287,7 @@
           },
           "title3": "iLO port connection",
           "subtitle3": "",
-          "caption3": "Connect the port labelled WAN into your Internet connection/router/ISP modem using an Ethernet cable. You will specify the IP address for this when you use the Installation Console.",
+          "caption3": "Connect the port labelled iLO into your Internet connection/router/ISP modem using an Ethernet cable. Depending on how you configured it in the Commissioning Console.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -299,9 +301,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Access The Installation Console",
+          "title4": "LAN port connect",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Access the Installation Console of your server by connecting a computer to the LAN port and by using a web browser to access the Installation Console.",
+          "caption4": "Connect the port labbled LAN into a switch.&nbsp;You can connect to these virtual machines over the LAN or when connected to the server using the Management VPN",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -339,14 +341,15 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"EC200a\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"EC200a\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
         }
       ]
     },
     "Installation Console": {
       "settings": {
         "title": "Installation Console",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 2
       },
       "components": [
         {
@@ -401,7 +404,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/1-1-2000x1750.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -485,7 +488,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/7-2000x1750.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -517,14 +520,15 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Setup\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Monitor\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"EC200a\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Monitor\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
         }
       ]
     },
     "Monitor": {
       "settings": {
         "title": "Monitor Progress Of Installation",
-        "meta_descr": "Web Creator Description"
+        "meta_descr": "Web Creator Description",
+        "order": 3
       },
       "components": [
         {
@@ -573,7 +577,7 @@
           ],
           "_name": "slider3",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "timeout": 5,
@@ -656,7 +660,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Setup\" data-toolbar=\"-mbrBtnMove\">NEXT</a> "
         }
       ]
     }
