@@ -558,7 +558,7 @@
           ],
           "_name": "slider3",
           "_params": {
-            "autoplay": false,
+            "autoplay": true,
             "paddingTop": "0",
             "paddingBottom": "0",
             "timeout": 5,
