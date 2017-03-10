@@ -341,7 +341,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"EC200a\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Monitor\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
         }
       ]
     },
