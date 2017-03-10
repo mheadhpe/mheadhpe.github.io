@@ -352,6 +352,11 @@
           "_styles": {
             "H3": {
               "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "msg-box1-r",
@@ -372,11 +377,11 @@
             "overlayColor": "#222",
             "inverse": false,
             "showButtons": false,
-            "showText": false,
+            "showText": true,
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "The Installation Console is a tool that is only used when the server is first booted to establish a connection to the Internet and initiate the automated tasks that form part of the installation process. &nbsp;",
           "title": "Installation Console"
         },
         {
@@ -525,6 +530,11 @@
           "_styles": {
             "H3": {
               "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "msg-box1-x",
@@ -545,11 +555,11 @@
             "overlayColor": "#222",
             "inverse": false,
             "showButtons": false,
-            "showText": false,
+            "showText": true,
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "The Commissioning Console will show you progress updates on the automated process and inform you when any manual actions need to be performed.",
           "title": "&nbsp;Monitor the Installation&nbsp;"
         },
         {

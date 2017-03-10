@@ -439,9 +439,19 @@ h6,
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
 }
+
 #msg-box1-r H3 {
   color: #ffffff;
 }
+#msg-box1-r H2 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+
 #msg-box1-x H3 {
   color: #ffffff;
+}
+#msg-box1-x H2 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
 }
