@@ -386,7 +386,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "The Installation Console is a tool that is only used when the server is first booted to establish a connection to the Internet and initiate the automated tasks that form part of the installation process. &nbsp;",
+          "text": "The Installation Console is a tool that is only used when the server is first booted to establish a connection to the Internet and initiate the automated tasks that form part of the installation process.",
           "title": "Installation Console"
         },
         {
