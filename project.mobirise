@@ -158,7 +158,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"file:///C:/Users/headm/Desktop/Test/Setup.html\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Setup\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         }
       ]
     },
@@ -334,7 +334,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"file:///C:/Users/headm/Desktop/Test/EC200a.html\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"file:///C:/Users/headm/Desktop/Test/Installation%20Console.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"EC200a\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
         }
       ]
     },
@@ -507,7 +507,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"file:///C:/Users/headm/Desktop/Test/Setup.html\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"file:///C:/Users/headm/Desktop/Test/Monitor.html\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Setup\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Monitor\" data-toolbar=\"-mbrBtnMove\">NEXT</a>"
         }
       ]
     },
@@ -564,7 +564,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/comis1-1-2000x1735.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -593,7 +593,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/comis1-3-2000x1735.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -641,7 +641,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"file:///C:/Users/headm/Desktop/Test/Installation%20Console.html\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Installation Console\" data-toolbar=\"-mbrBtnMove\">PREVIOUS</a> "
         }
       ]
     }
