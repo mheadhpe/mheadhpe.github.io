@@ -179,6 +179,11 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "msg-box1-q",
@@ -199,11 +204,11 @@
             "overlayColor": "#222",
             "inverse": false,
             "showButtons": false,
-            "showText": false,
+            "showText": true,
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "The installation process can be performed without disrupting your existing infrastructure and is can be accomplished without the assistance of the Easy Connect Support team",
           "title": "Simplified Deployment"
         },
         {
@@ -381,7 +386,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "The Installation Console is a tool that is only used when the server is first booted to establish a connection to the Internet and initiate the automated tasks that form part of the installation process. &nbsp;",
+          "text": "The Installation Console is a tool that is only used when the server is first booted to establish a connection to the Internet and initiate the automated tasks that form part of the &nbsp; installation process. &nbsp;",
           "title": "Installation Console"
         },
         {

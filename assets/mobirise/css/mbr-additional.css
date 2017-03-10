@@ -434,10 +434,15 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 
+
 #msg-box1-q H3 {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
+}
+#msg-box1-q H2 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
 }
 
 #msg-box1-r H3 {
